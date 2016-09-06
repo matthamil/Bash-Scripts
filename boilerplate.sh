@@ -10,7 +10,7 @@ cd lib
 bower install
 npm install
 cd ../
-echo -n "Make a new repo for this project?"
+echo -n "Make a new repo for this project? [yes] [no]"
 read answer
 if [ "$answer" = "yes" ]
 then
@@ -26,6 +26,6 @@ then
   git push -u origin master
   printf "👍  Done!\n"
 else
-  echo "No new repo created."
+  echo "No new repo created. To make a new repo, run 'mkrepo'."
 fi
 
