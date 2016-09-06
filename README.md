@@ -1,6 +1,6 @@
 ##boilerplate.sh
 
-Downloads my personal front-end boilerplate and creates a new repo on Github with a name and description.
+Downloads my personal Angular boilerplate and prompts to create a new repo on Github with a name and description.
 
 ##githubRepoMaker.sh
 
