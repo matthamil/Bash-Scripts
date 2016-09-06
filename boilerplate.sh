@@ -10,16 +10,22 @@ cd lib
 bower install
 npm install
 cd ../
-printf "🤔   Repo name: "
-read name
-printf "✏️  $name Description: "
-printf "✨  Creating repo: $name\n"
-curl -u matthamil https://api.github.com/user/repos -d '{ "name": "'"$name"'",
-"description": "'"$description"'" }'
-git init
-git add .
-git commit -m "first commit"
-git remote add origin "git@github.com:matthamil/${name}.git"
-git push -u origin master
-printf "👍  Done!\n"
+echo -n "Make a new repo for this project?"
+read answer
+if [ "$answer" = "yes" ]
+then
+  printf "🤔   Repo name: "
+  read name
+  printf "✏️  $name Description: "
+  printf "✨  Creating repo: $name\n"
+  curl -u matthamil https://api.github.com/user/repos -d '{ "name": "'"$name"'", "description": "'"$description"'" }'
+  git init
+  git add .
+  git commit -m "first commit"
+  git remote add origin "git@github.com:matthamil/${name}.git"
+  git push -u origin master
+  printf "👍  Done!\n"
+else
+  echo "No new repo created."
+fi
 
