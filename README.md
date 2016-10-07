@@ -30,6 +30,8 @@ Downloads my personal Angular boilerplate and prompts to create a new repo on Gi
 
 Creates a new repo for the current directory with a name and description.
 
+NOTE: The script breaks when a user creates a repository with `'`, `"`, or a space in the name.
+
 ##Create a new .NETCore app with a .gitignore
 ####[dotNetCoreNewWithGitIgnore.sh](https://github.com/matthamil/Bash-Scripts/blob/master/dotNetCoreNewWithGitIgnore.sh)
 
