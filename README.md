@@ -6,7 +6,7 @@ This repo contains a list of bash scripts I have written to make life as a devel
 
 Download the script of your choice. I recommend setting an `alias` within your `.zshrc` (or `.bashrc` if you do not have [oh-my-zsh](http://ohmyz.sh/) installed) like so:
 
-```
+```bash
 alias mynewalias="bash location/to/script.sh"
 ```
 
