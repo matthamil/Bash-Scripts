@@ -12,6 +12,8 @@ alias mynewalias="bash location/to/script.sh"
 
 Run `mynewalias` in your terminal to see it in action.
 
+---
+
 ###Table of Contents
 
 * [Angular Boilerplate](https://github.com/matthamil/Bash-Scripts#angular-boilerplate)
