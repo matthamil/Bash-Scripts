@@ -4,6 +4,7 @@ read name
 printf "✏️  $name Description: "
 read description
 printf "✨  Creating repo: $name\n"
+# Replace occurences of "matthamil" with your Github username
 curl -u matthamil https://api.github.com/user/repos -d '{ "name": "'"$name"'", 
 "description": "'"$description"'" }'
 git init
