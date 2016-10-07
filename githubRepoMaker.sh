@@ -7,8 +7,8 @@ printf "✨  Creating repo: $name\n"
 curl -u matthamil https://api.github.com/user/repos -d '{ "name": "'"$name"'", 
 "description": "'"$description"'" }'
 git init
-touch .gitignore
-echo "bower_components node_modules" >> .gitignore
+touch README.md
+echo $name >> README.md
 git add .
 git commit -m "first commit"
 git remote add origin "git@github.com:matthamil/${name}.git"
