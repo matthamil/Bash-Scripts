@@ -1,5 +1,7 @@
 #Bash-Scripts
 
+This repo contains a list of bash scripts I have written to make life as a developer a little bit easier. Feel free to download and use any of these scripts as you please.
+
 ## Usage
 
 Download the script of your choice. I recommend setting an `alias` within your `.zshrc` (or `.bashrc` if you do not have [oh-my-zsh](http://ohmyz.sh/) installed) like so:
