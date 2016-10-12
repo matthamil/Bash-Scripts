@@ -24,7 +24,7 @@ Run `mynewalias` in your terminal to see it in action.
 ##Angular 1 Boilerplate
 ####[boilerplate.sh](https://github.com/matthamil/Bash-Scripts/blob/master/boilerplate.sh)
 
-Downloads my personal [Angular 1 boilerplate](https://github.com/matthamil/Angular-Boilerplate) and prompts to create a new repo on Github with a name and description.
+Downloads my personal [Angular 1 boilerplate](https://github.com/matthamil/Angular-Bo).
 
 Run the script:
 
