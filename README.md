@@ -15,6 +15,7 @@ Run `mynewalias` in your terminal to see it in action.
 ##Table of Contents
 
 * [Angular Boilerplate](https://github.com/matthamil/Bash-Scripts#angular-boilerplate)
+* [Angular 1 Webpack Boilerplate](
 * [Create a Github Repo from the Terminal](https://github.com/matthamil/Bash-Scripts#create-a-github-repo-from-the-terminal)
 * [Create a new .NETCore app with a .gitignore](https://github.com/matthamil/Bash-Scripts#create-a-new-netcore-app-with-a-gitignore)
 
@@ -24,6 +25,11 @@ Run `mynewalias` in your terminal to see it in action.
 ####[boilerplate.sh](https://github.com/matthamil/Bash-Scripts/blob/master/boilerplate.sh)
 
 Downloads my personal Angular boilerplate and prompts to create a new repo on Github with a name and description.
+
+##Angular 1 Webpack Boilerplate
+####[ngwebpack.sh](https://github.com/matthamil/Bash-Scripts/blob/master/ngwebpack.sh)
+
+Downloads my Angular 1 with Webpack boilerplate and prompts to create a new repo on Github with a name and description.
 
 ##Create a Github Repo from the Terminal
 ####[githubRepoMaker.sh](https://github.com/matthamil/Bash-Scripts/blob/master/githubRepoMaker.sh)
