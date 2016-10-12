@@ -29,7 +29,7 @@ Downloads my personal Angular 1 boilerplate and prompts to create a new repo on 
 ##Angular 1 Webpack Boilerplate
 ####[ngwebpack.sh](https://github.com/matthamil/Bash-Scripts/blob/master/ngwebpack.sh)
 
-Downloads my Angular 1 with Webpack boilerplate and prompts to create a new repo on Github with a name and description.
+Downloads my Angular 1 with Webpack boilerplate into the current directory.
 
 ##Create a Github Repo from the Terminal
 ####[githubRepoMaker.sh](https://github.com/matthamil/Bash-Scripts/blob/master/githubRepoMaker.sh)
