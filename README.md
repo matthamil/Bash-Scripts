@@ -33,7 +33,7 @@ Run the script:
 ##Angular 1 Webpack Boilerplate
 ####[ngwebpack.sh](https://github.com/matthamil/Bash-Scripts/blob/master/ngwebpack.sh)
 
-Downloads my Angular 1 with Webpack boilerplate into the current directory.
+Downloads my [Angular 1 with Webpack boilerplate](https://github.com/matthamil/Angular1Webpack) into the current directory.
 
 Run the script:
 
