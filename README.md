@@ -44,9 +44,7 @@ Run the script:
 
 Creates a new repo for the current directory with a name and description.
 
-Run the script:
-
-`curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/githubRepoMaker.sh | bash`
+Download this script to your machine and change instances of `matthamil` to your Github username before running.
 
 ##Create a new .NETCore app with a .gitignore
 ####[dotNetCoreNewWithGitIgnore.sh](https://github.com/matthamil/Bash-Scripts/blob/master/dotNetCoreNewWithGitIgnore.sh)
