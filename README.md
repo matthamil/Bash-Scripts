@@ -18,6 +18,7 @@ Run `mynewalias` in your terminal to see it in action.
 * [Angular 1 Webpack Boilerplate](https://github.com/matthamil/Bash-Scripts#angular-1-webpack-boilerplate)
 * [Create a Github Repo from the Terminal](https://github.com/matthamil/Bash-Scripts#create-a-github-repo-from-the-terminal)
 * [Create a new .NETCore app with a .gitignore](https://github.com/matthamil/Bash-Scripts#create-a-new-netcore-app-with-a-gitignore)
+* [Remove a file from Git history](https://github.com/matthamil/Bash-Scripts#remove-a-file-from-git-history)
 
 ---
 
@@ -55,6 +56,15 @@ Creates a new .NETCore application within the current directory with a .gitignor
 Run the script:
 
 `curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/dotNetCoreNewWithGitIgnore.sh | bash`
+
+##Remove a file from Git History
+####[gitoops.sh](https://github.com/matthamil/Bash-Scripts/blob/master/gitoops.sh)
+
+Removes a file from Git history. Prompts the user to make a new commit to save Git history changes.
+
+Run the script:
+
+`curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/gitoops.sh | bash`
 
 ##Contributing
 
