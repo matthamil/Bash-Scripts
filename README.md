@@ -62,9 +62,7 @@ Run the script:
 
 Removes a file from Git history. Prompts the user to make a new commit to save Git history changes.
 
-Run the script:
-
-`curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/gitoops.sh | bash`
+NOTE: Download the script locally to run it.
 
 ##Contributing
 
