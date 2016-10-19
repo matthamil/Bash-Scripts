@@ -62,7 +62,7 @@ Run the script:
 
 Removes a file from Git history. Prompts the user to make a new commit to save Git history changes.
 
-NOTE: Download the script locally to run it.
+NOTE: Download the script locally to run it. Curl command removed from README due to weird bugs.
 
 ##Contributing
 
