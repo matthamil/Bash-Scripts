@@ -13,7 +13,7 @@ git init
 touch README.md
 echo $myname >> README.md
 git add .
-git commit -m "first commit"
+git commit -m ":tada: initial commit"
 git remote add origin "git@github.com:matthamil/${myname}.git"
 git push -u origin master
 printf "👍  Done!\n"
