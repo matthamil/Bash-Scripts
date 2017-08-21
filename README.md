@@ -19,7 +19,7 @@ Run `mynewalias` in your terminal to see it in action.
 * [Create a Github Repo from the Terminal](https://github.com/matthamil/Bash-Scripts#create-a-github-repo-from-the-terminal)
 * [Create a new .NETCore app with a .gitignore](https://github.com/matthamil/Bash-Scripts#create-a-new-netcore-app-with-a-gitignore)
 * [Remove a file from Git history](https://github.com/matthamil/Bash-Scripts#remove-a-file-from-git-history)
-* [WebGL Starter Kit](https://github.com/matthamil/WebGLStarterKit)
+* [WebGL Starter Kit](https://github.com/matthamil/Bash-Scripts#webgl-starter-kit)
 
 ---
 
@@ -66,7 +66,7 @@ Removes a file from Git history. Prompts the user to make a new commit to save G
 NOTE: Download the script locally to run it. Curl command removed from README due to weird bugs.
 
 ## WebGL Starter Kit
-####[webglstarterkit.sh](https://github.com/matthamil/Bash-Scripts/blob/master/webglstarterkit.sh)
+#### [webglstarterkit.sh](https://github.com/matthamil/Bash-Scripts/blob/master/webglstarterkit.sh)
 
 Sets up a WebGL project using my [WebGL Starter Kit](https://github.com/matthamil/WebGLStarterKit).
 
