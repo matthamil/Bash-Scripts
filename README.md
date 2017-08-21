@@ -24,7 +24,7 @@ Run `mynewalias` in your terminal to see it in action.
 ---
 
 ## Angular 1 Boilerplate
-####[boilerplate.sh](https://github.com/matthamil/Bash-Scripts/blob/master/boilerplate.sh)
+#### [boilerplate.sh](https://github.com/matthamil/Bash-Scripts/blob/master/boilerplate.sh)
 
 Downloads my personal [Angular 1 boilerplate](https://github.com/matthamil/Angular-Boilerplate).
 
@@ -33,7 +33,7 @@ Run the script:
 `curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/boilerplate.sh | bash`
 
 ## Angular 1 Webpack Boilerplate
-####[ngwebpack.sh](https://github.com/matthamil/Bash-Scripts/blob/master/ngwebpack.sh)
+#### [ngwebpack.sh](https://github.com/matthamil/Bash-Scripts/blob/master/ngwebpack.sh)
 
 Downloads my [Angular 1 with Webpack boilerplate](https://github.com/matthamil/Angular1Webpack) into the current directory.
 
@@ -42,7 +42,7 @@ Run the script:
 `curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/ngwebpack.sh | bash`
 
 ## Create a Github Repo from the Terminal
-####[githubRepoMaker.sh](https://github.com/matthamil/Bash-Scripts/blob/master/githubRepoMaker.sh)
+#### [githubRepoMaker.sh](https://github.com/matthamil/Bash-Scripts/blob/master/githubRepoMaker.sh)
 
 Creates a new repo for the current directory with a name and description.
 
@@ -50,7 +50,7 @@ Run the script:
 `curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/githubRepoMaker.sh | bash`
 
 ## Create a new .NETCore app with a .gitignore
-####[dotNetCoreNewWithGitIgnore.sh](https://github.com/matthamil/Bash-Scripts/blob/master/dotNetCoreNewWithGitIgnore.sh)
+#### [dotNetCoreNewWithGitIgnore.sh](https://github.com/matthamil/Bash-Scripts/blob/master/dotNetCoreNewWithGitIgnore.sh)
 
 Creates a new .NETCore application within the current directory with a .gitignore for commonly ignored .NETCore files.
 
@@ -59,7 +59,7 @@ Run the script:
 `curl -s https://raw.githubusercontent.com/matthamil/Bash-Scripts/master/dotNetCoreNewWithGitIgnore.sh | bash`
 
 ## Remove a file from Git History
-####[gitoops.sh](https://github.com/matthamil/Bash-Scripts/blob/master/gitoops.sh)
+#### [gitoops.sh](https://github.com/matthamil/Bash-Scripts/blob/master/gitoops.sh)
 
 Removes a file from Git history. Prompts the user to make a new commit to save Git history changes.
 
