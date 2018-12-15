@@ -1,3 +1,5 @@
+## :warning: This project is unmaintained.
+
 # Bash-Scripts
 
 This repo contains a list of bash scripts I have written to make life as a developer a little bit easier. Feel free to download and use any of these scripts as you please.
